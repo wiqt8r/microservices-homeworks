@@ -102,7 +102,7 @@
 
 ## Задача 3: API Gateway * (необязательная)
 
-Докер композ файл тут [./docker-compose.yaml]
+Докер композ файл тут[./docker-compose.yaml]
 
 <img width="1866" height="662" alt="image" src="https://github.com/user-attachments/assets/785553d1-55fe-49a3-bd38-def3592514f0" />
 
